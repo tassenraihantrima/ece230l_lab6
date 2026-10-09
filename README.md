@@ -2,8 +2,8 @@
 
 ## Names
 
-Tassen Raihan Trima  
-Nusaiba Arefin
+1. Tassen Raihan Trima  
+2. Nusaiba Arefin
 
 ## Lab Summary
 
